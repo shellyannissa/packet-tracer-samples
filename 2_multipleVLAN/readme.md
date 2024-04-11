@@ -102,6 +102,8 @@ do sh start
 exit
 ```
 
+the ip address specified after each encapsulation will act as the default gateway ip for the vlan
+
 ### DHCP configuration
 
 at router
